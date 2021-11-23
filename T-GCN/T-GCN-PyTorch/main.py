@@ -7,7 +7,7 @@ import tasks
 import utils.callbacks
 import utils.data
 # import utils.email
-# import utils.logging
+import utils.logging
 
 
 DATA_PATHS = {
