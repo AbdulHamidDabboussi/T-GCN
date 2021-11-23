@@ -12,7 +12,7 @@ import utils.logging
 
 DATA_PATHS = {
     "shenzhen": {"feat": "data/sz_speed.csv", "adj": "data/sz_adj.csv"},
-    "losloop": {"feat": "data/metr_speed.csv", "adj": "data/metr_adj.csv"},
+    "losloop": {"feat": "T-GCN/T-GCN/T-GCN-PyTorch/data/metr_speed.csv", "adj": "T-GCN/T-GCN/T-GCN-PyTorch/data/metr_adj.csv"},
 }
 
 
