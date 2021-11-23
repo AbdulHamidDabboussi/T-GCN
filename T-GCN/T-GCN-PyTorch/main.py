@@ -6,13 +6,13 @@ import models
 import tasks
 import utils.callbacks
 import utils.data
-import utils.email
-import utils.logging
+# import utils.email
+# import utils.logging
 
 
 DATA_PATHS = {
     "shenzhen": {"feat": "data/sz_speed.csv", "adj": "data/sz_adj.csv"},
-    "losloop": {"feat": "data/los_speed.csv", "adj": "data/los_adj.csv"},
+    "losloop": {"feat": "data/metr_speed.csv", "adj": "data/metr_adj.csv"},
 }
 
 
